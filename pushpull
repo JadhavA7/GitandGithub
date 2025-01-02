@@ -1,0 +1,13 @@
+# push file on github
+mkdir myapp
+cd myapp
+git init
+nano ak.txt
+git add ak.txt
+git commit -m pahilacommit
+git push origin master (after press enter token as password put your repositry of github)
+
+
+
+# usind clone
+git clone (http link of repositry on github)
