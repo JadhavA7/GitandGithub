@@ -1,0 +1,4 @@
+sudo yum install git -y
+git config --global user.name akashjadhav
+git config --global user.email a@b.com
+git config --list
